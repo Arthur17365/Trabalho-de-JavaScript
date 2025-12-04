@@ -1,0 +1,65 @@
+{
+  "rolamentos": {
+    "descricao": "Movimentos fundamentais para a segurança e fluidez no jiu-jitsu. Preparam o praticante para quedas, defesas e transições. Origem: Derivam das técnicas de ukemi do judô.",
+    "videos": [
+      { "nome": "Para frente dinâmico", "url": "https://www.youtube.com/embed/-n5It0GREW8?si=J32O_dwUvhgoReHa" },
+      { "nome": "Para trás dinâmico", "url": "https://www.youtube.com/embed/TD7giiQi8to?si=AUwT6XtBrOFpDFAQ" },
+      { "nome": "Lateral dinâmico", "url": "https://www.youtube.com/embed/aRFMX7n9uRQ?si=zT2reo0UvJyOsO5e" }
+    ]
+  },
+
+  "golpes": {
+    "descricao": "Englobam ações ofensivas aplicadas para dominar o oponente, como quedas e raspagens. Origem: Artes marciais japonesas adaptadas ao estilo brasileiro.",
+    "videos": [
+      { "nome": "O Soto Gari", "url": "https://www.youtube.com/embed/c-A_nP7mKAc" },
+      { "nome": "O Uchi Gari", "url": "https://www.youtube.com/embed/0itJFhV9pDQ" },
+      { "nome": "O Goshi", "url": "https://www.youtube.com/embed/yhu1mfy2vJ4" },
+      { "nome": "Ipon Seoi Nague", "url": "https://www.youtube.com/embed/FQnOlCxo4oI" },
+      { "nome": "De Ashi Barai", "url": "https://www.youtube.com/embed/4BUUvqxi_Kk" },
+      { "nome": "Koshi Guruma", "url": "https://www.youtube.com/embed/SU7Id6uVJ44" },
+      { "nome": "Tai-Otoshi", "url": "https://www.youtube.com/embed/4x6S3Q-Ktv8" }
+    ]
+  },
+
+  "passagem": {
+    "descricao": "Passagem de guarda consiste em ultrapassar as pernas do oponente mantendo o controle corporal.",
+    "videos": [
+      { "nome": "Passagens básicas", "url": "https://www.youtube.com/embed/gmvZPbPFaNw?si=erjTmAmEw06AqLHX" }
+    ]
+  },
+
+  "imobilizacoes": {
+    "descricao": "Técnicas de controle no solo que limitam o movimento do oponente.",
+    "videos": [
+      { "nome": "Hon Kesa Gatame", "url": "https://www.youtube.com/embed/NDaQuJOFBYk" },
+      { "nome": "Usshiro Kesa Gatame", "url": "https://www.youtube.com/embed/SBapox2M2dE" },
+      { "nome": "Yoko Shiro Gatame", "url": "https://www.youtube.com/embed/TT7XJVSEQxA" },
+      { "nome": "Kami Shiro Gatame", "url": "https://www.youtube.com/embed/HFuMjOv0WN8" },
+      { "nome": "Kata Gatame", "url": "https://www.youtube.com/embed/zQR3IOXxO_Q" }
+    ]
+  },
+
+  "estrangulamentos": {
+    "descricao": "Aplicações que interrompem o fluxo sanguíneo ou de ar, forçando a finalização.",
+    "videos": [
+      { "nome": "Mãos cruzadas", "url": "https://www.youtube.com/embed/Nz5Hzsp6XNk?si=ztzM0OhYl98F6a1_" }
+    ]
+  },
+
+  "chaves": {
+    "descricao": "Movimentos que visam a hiperextensão ou torção das articulações do braço, forçando o oponente a desistir para evitar lesões.",
+    "videos": [
+      { "nome": "Americana", "url": "https://www.youtube.com/embed/X-kZJhX_YdE?si=6f4nHECSKRoetBPM" },
+      { "nome": "Kimura", "url": "https://www.youtube.com/embed/T_iCmp8xkU4" },
+      { "nome": "Armlock montado", "url": "https://www.youtube.com/embed/tESs020gJ6M?si=4KzEzQ5vJ9KByAjC" },
+      { "nome": "Armlock na guarda", "url": "https://www.youtube.com/embed/d1OFQNCB4MQ?si=bpsnTJA475pG1Kn4" }
+    ]
+  },
+
+  "outros": {
+    "descricao": "Técnicas complementares e variações usadas em transições.",
+    "videos": [
+      { "nome": "Montada técnica", "url": "https://www.youtube.com/embed/LvpnYiAMVvU?si=82-jmD5VF1MmYnal" }
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exame de Faixa Azul — Catálogo</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>EXAME DE FAIXA AZUL</h1>
+    <nav>
+      <a href="index.html">Início</a>
+      <a href="sobre.html">Sobre</a>
+      <a href="contato.html">Contato</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="busca-box">
+      <input type="text" id="campoBusca" placeholder="Pesquisar técnica...">
+    </div>
+
+    <div class="bot">
+      <button class="botao" onclick="mostrarCategoria('rolamentos')">Rolamentos</button>
+      <button class="botao" onclick="mostrarCategoria('golpes')">Golpes</button>
+      <button class="botao" onclick="mostrarCategoria('passagem')">Passagens</button>
+      <button class="botao" onclick="mostrarCategoria('imobilizacoes')">Imobilizações</button>
+      <button class="botao" onclick="mostrarCategoria('estrangulamentos')">Estrangulamentos</button>
+      <button class="botao" onclick="mostrarCategoria('chaves')">Chaves</button>
+      <button class="botao" onclick="mostrarCategoria('outros')">Outros</button>
+    </div>
+
+    <div id="info">
+      <div id="resp">
+        <div class="intro-jj">
+    <img src="jiu-intro.jpg" class="intro-img" alt="Jiu-Jitsu">
+
+    <h2>História do Jiu-Jitsu</h2>
+
+    <p>
+      O Jiu-Jitsu tem suas raízes no Japão feudal, onde era praticado por samurais para 
+      defesa pessoal em situações de combate real. Utilizando alavancas, mobilidade e técnica,
+      tornou-se uma arte eficiente mesmo contra oponentes mais fortes.
+    </p>
+
+    <p>
+      No século XX, a família Gracie trouxe o Jiu-Jitsu para o Brasil, adaptando-o e criando 
+      o Jiu-Jitsu Brasileiro — conhecido mundialmente pela eficácia no solo e pelo uso inteligente 
+      da biomecânica.
+    </p>
+
+    <p>
+      Além de ser uma técnica marcial, o Jiu-Jitsu promove disciplina, autocontrole, respeito 
+      e autoconfiança, sendo hoje uma das artes marciais mais praticadas do mundo.
+    </p>
+  </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>Base: folheto do professor Fernando Maciel —  2025</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
